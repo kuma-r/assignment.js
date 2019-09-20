@@ -24,4 +24,6 @@ var std=new student("kumar",20,"male","backend","day");
 std.incAge();
 std.display(); 
 
+//we can also use objects for inheritance
+
 
